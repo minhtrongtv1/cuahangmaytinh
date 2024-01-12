@@ -1,0 +1,3 @@
+D:\code1\ShopQuanAo\obj\x86\Debug\CuahangmaytinhASP.csproj.AssemblyReference.cache
+D:\code1\ShopQuanAo\obj\x86\Debug\CuahangmaytinhASP.csproj.CoreCompileInputs.cache
+D:\code1\ShopQuanAo\obj\x86\Debug\CuahangmaytinhASP.csproj.SuggestedBindingRedirects.cache
